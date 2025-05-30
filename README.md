@@ -4,11 +4,10 @@
   <!-- GitHub Stats & Activity -->
   <img src="https://github-readme-stats.vercel.app/api?username=semaozylmz&show_icons=true&theme=tokyonight" width="45%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=semaozylmz&layout=compact&theme=tokyonight" width="35%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=semaozylmz&theme=tokyonight" width="45%" />
 
   <!-- Coding GIF -->
   <p>
-    <img src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif" width="400" height="auto" />
+    <img src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif" width="300" height="auto" />
   </p>
   
   <!-- Social Media & Links -->
