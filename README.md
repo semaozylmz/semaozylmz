@@ -6,14 +6,9 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=semaozylmz&layout=compact&theme=tokyonight" width="35%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=semaozylmz&theme=tokyonight" width="45%" />
 
-  
-  <!-- Activity Graph & Profile Views -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=semaozylmz&theme=react-dark" width="80%" />
-  <img src="https://komarev.com/ghpvc/?username=semaozylmz&color=blue" />
-
   <!-- Coding GIF -->
   <p>
-    <img src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif" width="600" height="auto" />
+    <img src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif" width="400" height="auto" />
   </p>
   
   <!-- Social Media & Links -->
