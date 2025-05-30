@@ -9,7 +9,7 @@
 
   <!-- Coding GIF -->
   <p>
-    <img src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif" width="350" height="auto" />
+    <img src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif" width="250" height="auto" />
   </p>
   
   <!-- Social Media & Links -->
