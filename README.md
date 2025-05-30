@@ -6,11 +6,6 @@
   <!-- GitHub Stats & Activity -->
   <img src="https://github-readme-stats.vercel.app/api?username=semaozylmz&show_icons=true&theme=transparent" width="40%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=semaozylmz&layout=compact&theme=transparent" width="40%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=semaozylmz&theme=transparent" width="45%" />
-  
-  <!-- Activity Graph & Profile Views -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=semaozylmz&theme=github-light" width="80%" />
-  <img src="https://komarev.com/ghpvc/?username=semaozylmz&color=ffb6c1" />
 
   <!-- Coding GIF -->
   <p>
