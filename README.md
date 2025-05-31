@@ -3,12 +3,10 @@
   <!-- Banner -->
   <img src="https://github.com/semaozylmz/semaozylmz/blob/main/banner.png?raw=true" width="85%" />
   
-   <!-- GitHub Activity Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=semaozylmz&theme=transparent" width="65%" style="margin-top: 10px;" />
   <!-- GitHub Stats & Activity -->
   <img src="https://github-readme-stats.vercel.app/api?username=semaozylmz&show_icons=true&theme=transparent" width="40%" />
    <!-- GitHub Streak -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=semaozylmz&theme=transparent" width="50%" style="margin-top: 10px;" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=semaozylmz&theme=transparent" width="45%" style="margin-top: 10px;" />
 
   <!-- Coding GIF -->
   <p>
