@@ -5,8 +5,8 @@
   
   <!-- GitHub Stats & Activity -->
   <img src="https://github-readme-stats.vercel.app/api?username=semaozylmz&show_icons=true&theme=transparent" width="40%" />
-   <!-- GitHub Achievements -->
-  <img src="https://github-profile-trophy.vercel.app/?username=semaozylmz&theme=juicyfresh" width="60%" style="margin-top: 10px;" />
+   <!-- GitHub Activity Graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=semaozylmz&theme=rose_pine" width="65%" style="margin-top: 10px;" />
 
   <!-- Coding GIF -->
   <p>
