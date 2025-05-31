@@ -5,7 +5,8 @@
   
   <!-- GitHub Stats & Activity -->
   <img src="https://github-readme-stats.vercel.app/api?username=semaozylmz&show_icons=true&theme=transparent" width="40%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=semaozylmz&layout=compact&theme=transparent" width="30%" />
+  <!-- GitHub Contribution Snake Animation -->
+  <img src="https://github.com/semaozylmz/semaozylmz/blob/output/github-contribution-grid-snake.gif" width="60%" style="border-radius: 10px; 
 
   <!-- Coding GIF -->
   <p>
