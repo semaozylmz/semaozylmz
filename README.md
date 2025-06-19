@@ -6,7 +6,7 @@
   <!-- GitHub Stats & Activity -->
   <img src="https://github-readme-stats.vercel.app/api?username=semaozylmz&show_icons=true&theme=transparent" width="40%" />
    <!-- GitHub Streak -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=semaozylmz&theme=transparent" width="40%" style="margin-top: 10px;" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=semaozylmz&theme=transparent" width="40%" style="margin-top: 10;" />
 
   <!-- Coding GIF -->
   <p>
