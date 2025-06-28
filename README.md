@@ -2,9 +2,6 @@
   
   <!-- Banner -->
   <img src="https://github.com/semaozylmz/semaozylmz/blob/main/banner.png?raw=true" width="85%" />
-  
-  <!-- GitHub Stats & Activity -->
-  <img src="https://github-readme-stats.vercel.app/api?username=semaozylmz&show_icons=true&theme=transparent" width="40%" />
 
   <!-- Coding GIF -->
   <p>
