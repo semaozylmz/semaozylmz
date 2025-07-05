@@ -9,13 +9,17 @@
   </p>
   
 <!-- Social Media & Links -->
-<p>
+<p align="center">
+  <!-- Top row -->
   <a href="https://github.com/semaozylmz">
     <img src="https://img.shields.io/badge/GitHub-semaozylmz-ffb6c1?style=for-the-badge&logo=github" />
   </a>
   <a href="https://www.linkedin.com/in/sema-nur-ozyilmaz0903/">
     <img src="https://img.shields.io/badge/LinkedIn-Sema%20Nur%20Özyılmaz-ffb6c1?style=for-the-badge&logo=linkedin" />
   </a>
+</p>
+<p align="center">
+  <!-- Bottom row -->
   <a href="https://www.kaggle.com/semaozyilmaz">
     <img src="https://img.shields.io/badge/Kaggle-semaozyilmaz-ffb6c1?style=for-the-badge&logo=kaggle" />
   </a>
@@ -23,6 +27,7 @@
     <img src="https://img.shields.io/badge/Medium-@ssozylmz-ffb6c1?style=for-the-badge&logo=medium" />
   </a>
 </p>
+
 
   
 </div>
