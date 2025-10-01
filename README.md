@@ -32,7 +32,7 @@
 
   <!-- Yetenekler -->
   <br>
-  <h3 style="color:#880E4F;"> Yeteneklerim</h3>
+  <h3 style="color:#880E4F;"> MY SKILLS </h3>
 
   <!-- Veri Bilimi ve AI -->
   <p><strong> AI and Data Science </strong></p>
