@@ -6,11 +6,11 @@
   </p>
 
   <!-- Başlık -->
-  <h2 style="color:#880E4F;">Merhaba, ben Sema 👩🏻‍💻</h2>
+  <h2 style="color:#880E4F;">Hello there, I'm Sema 👩🏻‍💻</h2>
   
   <!-- Açıklama -->
   <p style="max-width:600px; margin:auto; font-size:16px;">
-    İstanbul’da yaşıyorum, bilgisayar mühendisliği 3. sınıf öğrencisiyim. Yapay zeka ve veri bilimi alanında kendimi geliştirmeye çalışıyorum. Bunun yanında, frontend geliştirme yapmaktan da keyif alıyor ve bu alanda da ilerlemeye çalışıyorum. Sürekli yeni şeyler öğrenmeyi, üretmeyi ve teknikle tasarımı bir araya getirmeyi seven biriyim.
+    I live in Istanbul and I'm a third-year computer engineering student. I'm working on improving myself in the fields of artificial intelligence and data science. At the same time, I enjoy frontend development and strive to grow in that area as well. I'm someone who loves learning new things, creating, and combining technology with design.
   </p>
 
   <!-- Sosyal Bağlantılar -->
