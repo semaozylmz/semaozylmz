@@ -35,7 +35,7 @@
   <h3 style="color:#880E4F;"> Yeteneklerim</h3>
 
   <!-- Veri Bilimi ve AI -->
-  <p><strong> Veri Bilimi & Yapay Zekâ</strong></p>
+  <p><strong> AI and Data Science </strong></p>
   <p>
     <img src="https://img.shields.io/badge/Python-ffb6c1?style=flat&logo=python&logoColor=white"/>
     <img src="https://img.shields.io/badge/R-ffb6c1?style=flat&logo=r&logoColor=white"/>
@@ -54,7 +54,7 @@
   </p>
 
   <!-- Web Geliştirme -->
-  <p><strong> Web Geliştirme</strong></p>
+  <p><strong> Web Development</strong></p>
   <p>
     <img src="https://img.shields.io/badge/React-ffb6c1?style=flat&logo=react"/>
     <img src="https://img.shields.io/badge/Next.js-ffb6c1?style=flat&logo=next.js"/>
