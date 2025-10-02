@@ -29,12 +29,28 @@
       <img src="https://img.shields.io/badge/Medium-@ssozylmz-ffb6c1?style=for-the-badge&logo=medium" />
     </a>
   </p>
-  <br>
-  <!-- Profil Görüntülenme Sayısı -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=semaozylmz&label=Profile%20views&color=ffb6c1&style=flat" alt="semaozylmz" />
-</p>
 
+  <!-- Profil Görüntülenme Sayısı -->
+  <br>
+  <p align="center">
+    <img src="https://komarev.com/ghpvc/?username=semaozylmz&label=Profile%20views&color=ffb6c1&style=flat" alt="semaozylmz" />
+  </p>
+
+  <!-- Özel Rozet -->
+  <p align="center">
+    <img src="https://img.shields.io/badge/🌸-Frontend%20Lover-ffb6c1?style=flat" />
+  </p>
+
+  <!-- GitHub İstatistikleri -->
+  <br>
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=semaozylmz&show_icons=true&theme=rose_pine&hide_border=true" />
+  </p>
+
+  <!-- En Çok Kullanılan Diller -->
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=semaozylmz&layout=compact&theme=rose_pine&hide_border=true" />
+  </p>
 
   <!-- Yetenekler -->
   <br>
@@ -56,7 +72,6 @@
     <img src="https://img.shields.io/badge/Numpy-ffb6c1?style=flat&logo=numpy"/>
     <img src="https://img.shields.io/badge/PyTorch-ffb6c1?style=flat&logo=pytorch"/>
     <img src="https://img.shields.io/badge/TensorFlow-ffb6c1?style=flat&logo=tensorflow"/>
-</p>
   </p>
 
   <!-- Web Geliştirme -->
