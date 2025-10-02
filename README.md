@@ -38,18 +38,7 @@
 
   <!-- Özel Rozet -->
   <p align="center">
-    <img src="https://img.shields.io/badge/🌸-Frontend%20Lover-ffb6c1?style=flat" />
-  </p>
-
-  <!-- GitHub İstatistikleri -->
-  <br>
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=semaozylmz&show_icons=true&theme=rose_pine&hide_border=true" />
-  </p>
-
-  <!-- En Çok Kullanılan Diller -->
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=semaozylmz&layout=compact&theme=rose_pine&hide_border=true" />
+    <img src="https://img.shields.io/badge/🌸-ffb6c1?style=flat" />
   </p>
 
   <!-- Yetenekler -->
