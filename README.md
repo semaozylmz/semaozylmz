@@ -36,11 +36,6 @@
     <img src="https://komarev.com/ghpvc/?username=semaozylmz&label=Profile%20views&color=ffb6c1&style=flat" alt="semaozylmz" />
   </p>
 
-  <!-- Özel Rozet -->
-  <p align="center">
-    <img src="https://img.shields.io/badge/🌸-ffb6c1?style=flat" />
-  </p>
-
   <!-- Yetenekler -->
   <br>
   <h3 style="color:#880E4F;"> MY SKILLS </h3>
