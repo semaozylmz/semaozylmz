@@ -37,40 +37,70 @@
   </p>
 
   <!-- Yetenekler -->
-  <br>
-  <h3 style="color:#880E4F;"> MY SKILLS </h3>
+<br>
+<h3 style="color:#880E4F;"> MY SKILLS </h3>
 
-  <!-- Veri Bilimi ve AI -->
-  <p><strong> AI and Data Science </strong></p>
-  <p>
-    <img src="https://img.shields.io/badge/Python-ffb6c1?style=flat&logo=python&logoColor=white"/>
-    <img src="https://img.shields.io/badge/R-ffb6c1?style=flat&logo=r&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Machine%20Learning-ffb6c1?style=flat"/>
-    <img src="https://img.shields.io/badge/NLP-ffb6c1?style=flat"/>
-    <img src="https://img.shields.io/badge/Deep%20Learning-ffb6c1?style=flat"/>
-    <img src="https://img.shields.io/badge/Computer%20Vision-ffb6c1?style=flat"/>
-    <img src="https://img.shields.io/badge/OpenCV-ffb6c1?style=flat&logo=opencv&logoColor=white"/>
-    <img src="https://img.shields.io/badge/scikit--learn-ffb6c1?style=flat&logo=scikit-learn&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Matplotlib-ffb6c1?style=flat&logo=matplotlib"/>
-    <img src="https://img.shields.io/badge/Pandas-ffb6c1?style=flat&logo=pandas"/>
-    <img src="https://img.shields.io/badge/Numpy-ffb6c1?style=flat&logo=numpy"/>
-    <img src="https://img.shields.io/badge/PyTorch-ffb6c1?style=flat&logo=pytorch"/>
-    <img src="https://img.shields.io/badge/TensorFlow-ffb6c1?style=flat&logo=tensorflow"/>
-  </p>
+<!-- Veri Bilimi ve Yapay Zeka -->
+<p><strong> AI and Data Science </strong></p>
+<p>
+  <img src="https://img.shields.io/badge/Python-ffb6c1?style=flat&logo=python"/>
+  <img src="https://img.shields.io/badge/TensorFlow-ffb6c1?style=flat&logo=tensorflow"/>
+  <img src="https://img.shields.io/badge/PyTorch-ffb6c1?style=flat&logo=pytorch"/>
+  <img src="https://img.shields.io/badge/scikit--learn-ffb6c1?style=flat&logo=scikit-learn"/>
+  <img src="https://img.shields.io/badge/Pandas-ffb6c1?style=flat&logo=pandas"/>
+  <img src="https://img.shields.io/badge/Numpy-ffb6c1?style=flat&logo=numpy"/>
+  <img src="https://img.shields.io/badge/Matplotlib-ffb6c1?style=flat&logo=matplotlib"/>
+  <img src="https://img.shields.io/badge/OpenCV-ffb6c1?style=flat&logo=opencv"/>
+  <img src="https://img.shields.io/badge/Machine%20Learning-ffb6c1?style=flat"/>
+  <img src="https://img.shields.io/badge/Deep%20Learning-ffb6c1?style=flat"/>
+  <img src="https://img.shields.io/badge/NLP-ffb6c1?style=flat"/>
+</p>
 
-  <!-- Web Geliştirme -->
-  <p><strong> Web Development</strong></p>
-  <p>
-    <img src="https://img.shields.io/badge/React-ffb6c1?style=flat&logo=react"/>
-    <img src="https://img.shields.io/badge/Next.js-ffb6c1?style=flat&logo=next.js"/>
-    <img src="https://img.shields.io/badge/Node.js-ffb6c1?style=flat&logo=node.js"/>
-    <img src="https://img.shields.io/badge/Electron.js-ffb6c1?style=flat&logo=electron"/>
-    <img src="https://img.shields.io/badge/HTML-ffb6c1?style=flat&logo=html5"/>
-    <img src="https://img.shields.io/badge/CSS-ffb6c1?style=flat&logo=css3"/>
-    <img src="https://img.shields.io/badge/JavaScript-ffb6c1?style=flat&logo=javascript"/>
-    <img src="https://img.shields.io/badge/jQuery-ffb6c1?style=flat&logo=jquery"/>
-    <img src="https://img.shields.io/badge/Bootstrap-ffb6c1?style=flat&logo=bootstrap"/>
-    <img src="https://img.shields.io/badge/TailwindCSS-ffb6c1?style=flat&logo=tailwind-css"/>
-  </p>
+<!-- Frontend Geliştirme -->
+<p><strong> Frontend Development </strong></p>
+<p>
+  <img src="https://img.shields.io/badge/HTML-ffb6c1?style=flat&logo=html5"/>
+  <img src="https://img.shields.io/badge/CSS-ffb6c1?style=flat&logo=css3"/>
+  <img src="https://img.shields.io/badge/JavaScript-ffb6c1?style=flat&logo=javascript"/>
+  <img src="https://img.shields.io/badge/jQuery-ffb6c1?style=flat&logo=jquery"/>
+  <img src="https://img.shields.io/badge/React-ffb6c1?style=flat&logo=react"/>
+  <img src="https://img.shields.io/badge/Next.js-ffb6c1?style=flat&logo=next.js"/>
+  <img src="https://img.shields.io/badge/Electron.js-ffb6c1?style=flat&logo=electron"/>
+  <img src="https://img.shields.io/badge/Bootstrap5-ffb6c1?style=flat&logo=bootstrap"/>
+  <img src="https://img.shields.io/badge/TailwindCSS-ffb6c1?style=flat&logo=tailwind-css"/>
+  <img src="https://img.shields.io/badge/Material%20UI-ffb6c1?style=flat&logo=mui"/>
+</p>
+
+<!-- Backend Geliştirme -->
+<p><strong> Backend Development </strong></p>
+<p>
+  <img src="https://img.shields.io/badge/Node.js-ffb6c1?style=flat&logo=node.js"/>
+  <img src="https://img.shields.io/badge/Express.js-ffb6c1?style=flat&logo=express"/>
+  <img src="https://img.shields.io/badge/Spring%20Boot-ffb6c1?style=flat&logo=spring"/>
+  <img src="https://img.shields.io/badge/Flask-ffb6c1?style=flat&logo=flask"/>
+  <img src="https://img.shields.io/badge/Streamlit-ffb6c1?style=flat&logo=streamlit"/>
+</p>
+
+<!-- OOP & Diller -->
+<p><strong> Programming Languages & OOP </strong></p>
+<p>
+  <img src="https://img.shields.io/badge/Java-ffb6c1?style=flat&logo=java"/>
+  <img src="https://img.shields.io/badge/C++-ffb6c1?style=flat&logo=c%2B%2B"/>
+  <img src="https://img.shields.io/badge/OOP-ffb6c1?style=flat"/>
+</p>
+
+<!-- Mobil Uygulama -->
+<p><strong> Mobile Development </strong></p>
+<p>
+  <img src="https://img.shields.io/badge/Flutter-ffb6c1?style=flat&logo=flutter"/>
+</p>
+
+<!-- Diller -->
+<p><strong> Languages </strong></p>
+<p>
+  <img src="https://img.shields.io/badge/Turkish-Native-ffb6c1?style=flat"/>
+  <img src="https://img.shields.io/badge/English-C1-ffb6c1?style=flat"/>
+</p>
+
 
 </div>
