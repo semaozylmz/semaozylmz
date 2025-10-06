@@ -7,10 +7,13 @@
 
   <!-- Başlık -->
   <h2 style="color:#880E4F;">Hello there, I'm Sema 👩🏻‍💻</h2>
+  <p style="font-size:18px; color:#AD1457; margin-top:-10px;">
+  <em>Computer Engineering Student & Instructor Mentor</em>
+</p>
   
   <!-- Açıklama -->
   <p style="max-width:600px; margin:auto; font-size:16px;">
-    I live in Istanbul and I'm a third-year computer engineering student. I'm working on improving myself in the fields of artificial intelligence and data science. At the same time, I enjoy frontend development and strive to grow in that area as well. I'm someone who loves learning new things, creating, and combining technology with design.
+ I live in Istanbul and I'm a third-year computer engineering student. I'm passionate about artificial intelligence, data science, and frontend development. I also work as a software instructor, sharing what I learn while continuing to grow. I love exploring new technologies, building creative solutions, and blending logic with design.
   </p>
 
   <!-- Sosyal Bağlantılar -->
