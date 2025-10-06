@@ -86,7 +86,6 @@
 <p>
   <img src="https://img.shields.io/badge/Java-ffb6c1?style=flat&logo=java"/>
   <img src="https://img.shields.io/badge/C++-ffb6c1?style=flat&logo=c%2B%2B"/>
-  <img src="https://img.shields.io/badge/OOP-ffb6c1?style=flat"/>
 </p>
 
 <!-- Mobil Uygulama -->
