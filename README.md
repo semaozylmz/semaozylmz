@@ -66,6 +66,7 @@
   <img src="https://img.shields.io/badge/HTML-ffb6c1?style=flat&logo=html5"/>
   <img src="https://img.shields.io/badge/CSS-ffb6c1?style=flat&logo=css3"/>
   <img src="https://img.shields.io/badge/JavaScript-ffb6c1?style=flat&logo=javascript"/>
+  <img src="https://img.shields.io/badge/TypeScript-ffb6c1?style=flat&logo=typescript"/>
   <img src="https://img.shields.io/badge/jQuery-ffb6c1?style=flat&logo=jquery"/>
   <img src="https://img.shields.io/badge/React-ffb6c1?style=flat&logo=react"/>
   <img src="https://img.shields.io/badge/Next.js-ffb6c1?style=flat&logo=next.js"/>
